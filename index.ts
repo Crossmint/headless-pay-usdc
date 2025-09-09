@@ -1,5 +1,5 @@
-import { createOrder } from "./createOrder";
-import { pollOrder } from "./getOrder";
+import { createOrder } from "./src/createOrder";
+import { pollOrder } from "./src/getOrder";
 
 async function main() {
     try {

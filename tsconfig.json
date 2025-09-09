@@ -13,7 +13,7 @@
   },
   "include": [
     "*.ts"
-  ],
+, "src/createOrder.ts", "src/getOrder.ts", "src/utils.ts"  ],
   "exclude": [
     "node_modules",
     "dist"
